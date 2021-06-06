@@ -5,13 +5,13 @@ This repository introduces a simple but an effective ShinyApp about obtaning FFT
 
 In this app, there are various parameters that can be changed namely:
 
-* Sampling Rate (Hz)
+- Sampling Rate (Hz)
 
-* Harmonic Frequency Selection
+- Harmonic Frequency Selection
 
-* # of Harmonic to search
+- Number of Harmonic to search
 
-* # of Freq for Spec.ar
+- Number of Freq for Spec.ar
 
-* AR Order for Spec.ar
+- AR Order for Spec.ar
 
