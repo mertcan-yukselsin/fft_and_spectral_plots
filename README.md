@@ -15,3 +15,6 @@ In this app, there are various parameters that can be changed namely:
 
 - AR Order for Spec.ar
 
+
+After opening the web application, all you need to do is upload a snapshot file and then changing the parameters in the bottom-left corner.
+
