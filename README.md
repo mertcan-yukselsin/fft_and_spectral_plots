@@ -1,4 +1,4 @@
-# fft_and_spectral_plots
+# fft_and_spectral_plots_app
 This repository introduces a simple but an effective ShinyApp about obtaning FFT and Spectral Density Plots easily.
 
 * In app.R file, the codes are available. The output website can be found here: https://mrreductive.shinyapps.io/fft_and_spectral_plots/
